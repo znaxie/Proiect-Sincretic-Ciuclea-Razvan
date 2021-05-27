@@ -1,0 +1,9 @@
+6
+Romania: Franta, Anglia
+Franta: Anglia, Grecia
+Anglia: Grecia
+Grecia: Italia, Germania
+Italia: Germania
+Germania:
+rosu, galben, verde, albastru, portocaliu, neon
+
